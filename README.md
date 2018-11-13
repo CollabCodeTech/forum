@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CollabCodeTech/collabcode-assets/master/logo/collabcode-logo-horizontal.svg" width="400" alt="CollabCodeTech">
+  <img src="http://collabcode.training/static/media/logo-avatar.3b0b3a3d.svg" width="200" alt="CollabCodeTech">
 </p>
 <h1 align="center">Fórum</h1>
 <p align="center"></p>
@@ -43,7 +43,7 @@ Para isso basta clicar em **Sort** e escolher a ordenação.
 Você pode receber atualizações do Fórum no seu email ou via notificações do GitHub, basta clicar em **Watch** e, em seguida, clicar em **Watching** no canto superior direito da interface do site, próximo a sua foto de perfil.
 
 <p align="center">
-  <img src="http://s31.postimg.org/nt5f6bbff/watch_github_forum.png" alt="Watch GitHub repo"/>
+
 </p>
 
 Fórum baseado no da comunidade <a href="https://github.com/frontendbr/forum">frontendbr</a>
